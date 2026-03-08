@@ -7,7 +7,7 @@ body {
 
 #navbar {
     width: 220px; /* Largura da Navbar */
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 70%), url('imagenssite/TrcSCCP2.jpg') no-repeat center center;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0) 70%), url('../img/icons/TrcSCCP2.jpg') no-repeat center center;
     background-size: cover;
     color: #fff;
     position: fixed;
@@ -127,7 +127,7 @@ body {
 }
 
 .add-icon {
-    background-image: url(imagenssite/plus.png);
+    background-image: url('../img/icons/plus.png');
     align-items: center;
 }
 
